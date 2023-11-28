@@ -1,6 +1,6 @@
+
+
 //Calcule o MDC (máximo divisor comum) entre dois números.
-
-
 
 
 function mdc(num1, num2){
@@ -13,3 +13,5 @@ function mdc(num1, num2){
 }
 
 console.log(mdc(6, 8));
+
+module.exports = { mdc }
