@@ -1,4 +1,4 @@
-const { mdc } = require('./MDC')
+const { mdc } = require('../src/MDC')
 
 describe('Validar resultado do MDC', () => {
 

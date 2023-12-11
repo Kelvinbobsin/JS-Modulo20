@@ -2,7 +2,7 @@
 //ficamos com 3, 5, 6 e 9. A soma desses múltiplos é 23. 
 //Crie uma função que retorne a soma de todos os múltiplos de 5 ou 7 abaixo de 1000.
 
-const { calcular } = require('./multiplos')
+const { calcular } = require('../src/multiplos')
 
 describe('Soma dos Múltiplos', () => {
 

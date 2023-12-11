@@ -1,4 +1,4 @@
-const { max, min } = require('./Array')
+const { max, min } = require('../src/Array')
 
 describe('Validar Maior e menor valor de um Array', () => {
     it('Maior dos Valores', () => {
